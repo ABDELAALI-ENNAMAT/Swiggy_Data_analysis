@@ -2,7 +2,7 @@
 -------------------------------------------------------------
 This project involves analyzing and cleaning the dataset provided by Swiggy. Swiggy is a popular food delivery service in India, and the dataset includes various tables related to food items, menus, orders, order types, restaurants, and users. The goal is to clean the data, format the tables, and store the processed dataset for further analysis.
 ## Power BI Report
-- [View the Power BI report here](https://app.powerbi.com/view?r=eyJrIjoiMzZiNzhkODUtNWZjZi00N2NjLWIwYjEtOWI4Yzk5NzlhYjVlIiwidCI6ImZmYzMxNjU1LTI0NTMtNGMzNy1iNmM3LWI4MzQ2ODM4MTc3NiJ9)
+- [View the Power BI report here](https://app.powerbi.com/reportEmbed?reportId=3bc300f1-90fa-4f85-8ccc-c27ae4e3f865&autoAuth=true&ctid=2e589d81-ea7a-4dc7-8fb2-84ba95cc947f)
   
 ## 📊 Tables and Column Names
 
