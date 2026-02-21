@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Swiggy_logo.svg/2560px-Swiggy_logo.svg.png" alt="Swiggy Logo" width="280"/>
+<img src="https://img.shields.io/badge/🍽️%20Swiggy-Data%20Analysis-FC8019?style=for-the-badge&labelColor=FC8019&color=1C1C1C" alt="Swiggy Data Analysis" height="50"/>
 
 # 🍽️ Swiggy Data Analysis
 
@@ -278,8 +278,6 @@ Click the badge below to open the live Power BI report:
 ## 👤 Author
 
 <div align="center">
-
-<img src="https://github.com/ABDELAALI-ENNAMAT.png" width="100" style="border-radius:50%;" alt="Author"/>
 
 ### **Abdelaali Ennamat**
 *Data Analyst · Business Intelligence · Python & Power BI*
